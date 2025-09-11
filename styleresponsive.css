@@ -1,0 +1,41 @@
+@media (max-width: 992px) {
+  nav {
+    padding: 15px 20px;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 786px) {
+
+  nav ul{
+    display: none;
+  }
+  nav ul {
+    flex-direction: column;
+    position: absolute;
+    top: 60px; /* below the nav */
+    right: 0;
+    background-color: rgb(255, 255, 255, 0.6);
+    width: 200px;
+    padding: 0;
+    max-height: 0; /* hidden by default */
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+  }
+
+  nav ul.show {
+    max-height: 400px; /* big enough to fit all links */
+    padding: 10px;
+  }
+
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+    color: rgb(213, 34, 34);
+    font-size: 24px;
+    padding: 10px;
+  }
+}

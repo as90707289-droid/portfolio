@@ -47,13 +47,12 @@ A food ordering website focused on Korean cuisine with smooth browsing.
 
 ## 📸 Screenshots
 
-*(Add screenshots of your portfolio pages here once available)*
-
+![Portfolio home image](portfolio.png)
 ---
 
 ## 🔗 Live Demo
 
-👉 [Live Demo Link](#) *(Update after deployment on GitHub Pages / Netlify)*
+👉 [Live Demo Link](#) *(https://garportfolio.netlify.app/)*
 
 ---
 

@@ -48,6 +48,8 @@ A food ordering website focused on Korean cuisine with smooth browsing.
 ## 📸 Screenshots
 
 ![Portfolio home image](portfolio.png)
+![Social media link](Social-media-link.png)
+![Contact-form](Contact-form.png)
 ---
 
 ## 🔗 Live Demo
@@ -59,8 +61,9 @@ A food ordering website focused on Korean cuisine with smooth browsing.
 ## 📬 Contact Me
 
 * **Email:** [as90707289@gmail.com](mailto:as90707289@gmail.com)
-* **GitHub:** [Your GitHub](https://github.com/yourgithub)
-* **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+* **GitHub:** [GitHub](https://github.com/as90707289-droid)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ashish-singh-a6b320314/)
+* **Naukari:** [Naukari](https://www.naukri.com/mnjuser/homepage)
 * **WhatsApp:** [Message Me](https://wa.me/918953020780?text=Hello%20Ashish,%20I%20saw%20your%20portfolio!)
 
 ---
